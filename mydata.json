@@ -1,0 +1,1093 @@
+[
+    {
+        "minSalary": "32.05",
+        "maxSalary": null,
+        "workHours": " 30 hours per week",
+        "companyName": "Nexgen Production Inc.",
+        "experience": "1 year to less than 2 years",
+        "Title": "Web developer",
+        "KeyWords": [
+            "database",
+            "code",
+            "HTML",
+            "software",
+            "test",
+            "develop",
+            "data",
+            "mock-up"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/37327840?source=searchresults"
+    },
+    {
+        "minSalary": "41.60",
+        "maxSalary": "43.00",
+        "workHours": " 40 to 44 hours per week",
+        "companyName": "Valiantys Inc.",
+        "experience": "3 years to less than 5 years",
+        "Title": "IT (information technology) consultant",
+        "KeyWords": [
+            "Git",
+            "Java",
+            "C#",
+            "HTML",
+            "software",
+            "script",
+            "SQL",
+            "develop",
+            "data",
+            "life cycle"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/37323856?source=searchresults"
+    },
+    {
+        "minSalary": "62,800",
+        "maxSalary": null,
+        "workHours": " 30 hours per week",
+        "companyName": "Delbridge Solutions Inc.",
+        "experience": "1 year to less than 2 years",
+        "Title": "database analyst",
+        "KeyWords": [
+            "database",
+            "software",
+            "test",
+            "script",
+            "SQL",
+            "develop",
+            "data"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/37315352?source=searchresults"
+    },
+    {
+        "minSalary": "70,000",
+        "maxSalary": "94,500",
+        "workHours": " 37.5 hours per week",
+        "companyName": "Entrust Limited",
+        "experience": "2 years to less than 3 years",
+        "Title": "software developer",
+        "KeyWords": [
+            "code",
+            "Java",
+            "HTML",
+            "software",
+            "test",
+            "SQL",
+            "JS",
+            "engineer",
+            "develop"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/37315023?source=searchresults"
+    },
+    {
+        "minSalary": "49.00",
+        "maxSalary": null,
+        "workHours": " 40 hours per week",
+        "companyName": "Antares Professional Corporation Chartered Professional Accountants",
+        "experience": "3 years to less than 5 years",
+        "Title": "informatics security analyst",
+        "KeyWords": [
+            "software",
+            "SQL",
+            "develop",
+            "data",
+            "life cycle"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/37312403?source=searchresults"
+    },
+    {
+        "minSalary": "42.00",
+        "maxSalary": null,
+        "workHours": " 35 hours per week",
+        "companyName": "Geek Holdings Inc.",
+        "experience": "1 year to less than 2 years",
+        "Title": "software developer",
+        "KeyWords": [
+            "code",
+            "software",
+            "test",
+            "develop"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/37312190?source=searchresults"
+    },
+    {
+        "minSalary": "35.00",
+        "maxSalary": "45.00",
+        "workHours": " 35 hours per week",
+        "companyName": "Groupe Concorde Internationale Inc",
+        "experience": "3 years to less than 5 years",
+        "Title": "design engineer, electrical",
+        "KeyWords": [
+            "engineer",
+            "develop",
+            "data"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/37310739?source=searchresults"
+    },
+    {
+        "minSalary": "40.00",
+        "maxSalary": "50.00",
+        "workHours": " 35 hours per week",
+        "companyName": "Catalx Management Ltd",
+        "experience": "Experience an asset",
+        "Title": "software developer",
+        "KeyWords": [
+            "code",
+            "software",
+            "test",
+            "develop"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/37305618?source=searchresults"
+    },
+    {
+        "minSalary": "23.00",
+        "maxSalary": "30.00",
+        "workHours": " 5 to 25 hours per week",
+        "companyName": "Bailey Creative Inc.",
+        "experience": "Experience an asset",
+        "Title": "Web programmer",
+        "KeyWords": [
+            "code",
+            "HTML",
+            "software",
+            "test"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/37305461?source=searchresults"
+    },
+    {
+        "minSalary": "65,000",
+        "maxSalary": "100,000",
+        "workHours": " 40 hours per week",
+        "companyName": "Evertz Microsystems Ltd.",
+        "experience": "Experience an asset",
+        "Title": "software developer",
+        "KeyWords": [
+            "code",
+            "Java",
+            "C++",
+            "C#",
+            "HTML",
+            "Angular",
+            "software",
+            "test",
+            "script",
+            "SQL",
+            "develop"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/37304410?source=searchresults"
+    },
+    {
+        "minSalary": "50.20",
+        "maxSalary": null,
+        "workHours": " 30 hours per week",
+        "companyName": "Info Matics",
+        "experience": "3 years to less than 5 years",
+        "Title": "software design engineer",
+        "KeyWords": [
+            "software",
+            "test",
+            "develop"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/37304354?source=searchresults"
+    },
+    {
+        "minSalary": "24.21",
+        "maxSalary": "32.32",
+        "workHours": " 35 hours per week",
+        "companyName": "Centre de services scolaire du Littoral",
+        "experience": "2 years to less than 3 years",
+        "Title": "computer network technician",
+        "KeyWords": [
+            "Java",
+            "HTML",
+            "software"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/37303807?source=searchresults"
+    },
+    {
+        "minSalary": "40.00",
+        "maxSalary": null,
+        "workHours": " 35 to 40 hours per week",
+        "companyName": "Ancile Canada Inc",
+        "experience": "3 years to less than 5 years",
+        "Title": "analyst, database",
+        "KeyWords": [
+            "database",
+            "Git",
+            "software",
+            "test",
+            "SQL",
+            "develop",
+            "data"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/37296336?source=searchresults"
+    },
+    {
+        "minSalary": "35.10",
+        "maxSalary": null,
+        "workHours": " 30 hours per week",
+        "companyName": "Tech Mart",
+        "experience": "1 year to less than 2 years",
+        "Title": "computer network technician",
+        "KeyWords": [
+            "software",
+            "script",
+            "develop",
+            "data"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/37295210?source=searchresults"
+    },
+    {
+        "minSalary": "60,000",
+        "maxSalary": "110,000",
+        "workHours": " 37.5 to 40 hours per week",
+        "companyName": "Solutions Kumojin inc.",
+        "experience": "3 years to less than 5 years",
+        "Title": "computer programmer",
+        "KeyWords": [
+            "code",
+            "Git",
+            "Java",
+            "CSS",
+            "HTML",
+            "Angular",
+            "software",
+            "test",
+            "SQL",
+            "develop",
+            "programming"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/37292095?source=searchresults"
+    },
+    {
+        "minSalary": "90,000",
+        "maxSalary": null,
+        "workHours": " 40 hours per week",
+        "companyName": "V9 Consulting Services Incorporated",
+        "experience": "3 years to less than 5 years",
+        "Title": "computer application programmer",
+        "KeyWords": [
+            "code",
+            "Java",
+            "software",
+            "test",
+            "develop"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/37282715?source=searchresults"
+    },
+    {
+        "minSalary": "40.00",
+        "maxSalary": "55.00",
+        "workHours": " 30 hours per week",
+        "companyName": "YYOUNG WATER LTD",
+        "experience": "1 year to less than 2 years",
+        "Title": "Web developer",
+        "KeyWords": [
+            "database",
+            "code",
+            "Java",
+            "C++",
+            "C#",
+            "HTML",
+            "software",
+            "test",
+            "develop",
+            "data",
+            "mock-up"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/37278241?source=searchresults"
+    },
+    {
+        "minSalary": "80,000",
+        "maxSalary": null,
+        "workHours": " 40 hours per week",
+        "companyName": "PARTS AVATAR INVESTMENTS INC",
+        "experience": "3 years to less than 5 years",
+        "Title": "software developer",
+        "KeyWords": [
+            "code",
+            "Java",
+            "CSS",
+            "HTML",
+            "software",
+            "test",
+            "develop"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/37277449?source=searchresults"
+    },
+    {
+        "minSalary": "80,000",
+        "maxSalary": "100,000",
+        "workHours": " 37.5 hours per week",
+        "companyName": "Belmar Consulting",
+        "experience": "2 years to less than 3 years",
+        "Title": "consultant, systems",
+        "KeyWords": [
+            "software",
+            "develop",
+            "data"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/37273448?source=searchresults"
+    },
+    {
+        "minSalary": "28.00",
+        "maxSalary": "45.00",
+        "workHours": " 30 to 40 hours per week",
+        "companyName": "Dialog Insight",
+        "experience": "2 years to less than 3 years",
+        "Title": "full stack developer",
+        "KeyWords": [
+            "code",
+            "Java",
+            "C#",
+            "software",
+            "test",
+            "SQL",
+            "develop"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/37263755?source=searchresults"
+    },
+    {
+        "minSalary": "43.30",
+        "maxSalary": null,
+        "workHours": " 30 hours per week",
+        "companyName": "Grape Works",
+        "experience": "1 year to less than 2 years",
+        "Title": "computer programmer",
+        "KeyWords": [
+            "code",
+            "software",
+            "test",
+            "develop"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/37260592?source=searchresults"
+    },
+    {
+        "minSalary": "54,000",
+        "maxSalary": "61,530",
+        "workHours": " 40 hours per week",
+        "companyName": "Soci\u00e9t\u00e9 de d\u00e9veloppement de la Baie-James",
+        "experience": "2 years to less than 3 years",
+        "Title": "computer network technician",
+        "KeyWords": [
+            "software",
+            "develop",
+            "data"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/37248428?source=searchresults"
+    },
+    {
+        "minSalary": "57,738",
+        "maxSalary": "71,773",
+        "workHours": " 40 hours per week",
+        "companyName": "Soci\u00e9t\u00e9 de d\u00e9veloppement de la Baie-James",
+        "experience": "3 years to less than 5 years",
+        "Title": "computer network technician",
+        "KeyWords": [
+            "software",
+            "develop",
+            "data"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/37248248?source=searchresults"
+    },
+    {
+        "minSalary": "20.00",
+        "maxSalary": "30.00",
+        "workHours": " 35 to 44 hours per week",
+        "companyName": "Innovated Solutions",
+        "experience": "Experience an asset",
+        "Title": "IT (information technology) consulting account manager",
+        "KeyWords": [
+            "software",
+            "develop",
+            "data",
+            "life cycle"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/37237174?source=searchresults"
+    },
+    {
+        "minSalary": "52.00",
+        "maxSalary": null,
+        "workHours": " 35 to 40 hours per week",
+        "companyName": "Quad Tech Solutions Inc.",
+        "experience": "1 year to less than 2 years",
+        "Title": "software engineer",
+        "KeyWords": [
+            "Java",
+            "C++",
+            "HTML",
+            "software",
+            "test",
+            "SQL",
+            "develop",
+            "Object-Oriented",
+            "programming",
+            "data"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/37218878?source=searchresults"
+    },
+    {
+        "minSalary": "60,000",
+        "maxSalary": "107,000",
+        "workHours": " 35 hours per week",
+        "companyName": "Les servies conseils ABna inc",
+        "experience": "1 year to less than 2 years",
+        "Title": "computer consultant",
+        "KeyWords": [
+            "software",
+            "develop",
+            "life cycle"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/37207172?source=searchresults"
+    },
+    {
+        "minSalary": "42.00",
+        "maxSalary": "46.00",
+        "workHours": " 30 hours per week",
+        "companyName": "Reuzes Marketplace Corp.",
+        "experience": "3 years to less than 5 years",
+        "Title": "software developer",
+        "KeyWords": [
+            "code",
+            "Java",
+            "C++",
+            "C#",
+            "HTML",
+            "software",
+            "test",
+            "SQL",
+            "develop"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/37298221?source=searchresults"
+    },
+    {
+        "minSalary": "60,000",
+        "maxSalary": "75,000",
+        "workHours": " 40 hours per week",
+        "companyName": "GeoTrek Land Survey",
+        "experience": "1 year to less than 2 years",
+        "Title": "computer-assisted drafting (CAD) technician",
+        "KeyWords": [
+            "software",
+            "engineer",
+            "data"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/37191003?source=searchresults"
+    },
+    {
+        "minSalary": "60,000",
+        "maxSalary": "85,000",
+        "workHours": " 40 hours per week",
+        "companyName": "FOP EXPERTS CONSEILS INC",
+        "experience": "3 years to less than 5 years",
+        "Title": "network specialist - computer systems",
+        "KeyWords": [
+            "Java",
+            "software",
+            "develop",
+            "data"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/37164114?source=searchresults"
+    },
+    {
+        "minSalary": "60,000",
+        "maxSalary": "90,000",
+        "workHours": " 40 hours per week",
+        "companyName": "FOP EXPERTS CONSEILS INC",
+        "experience": "3 years to less than 5 years",
+        "Title": "programmer analyst",
+        "KeyWords": [
+            "database",
+            "code",
+            "C++",
+            "HTML",
+            "software",
+            "test",
+            "script",
+            "SQL",
+            "develop",
+            "data"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/37164116?source=searchresults"
+    },
+    {
+        "minSalary": "68,000",
+        "maxSalary": "90,000",
+        "workHours": " 40 hours per week",
+        "companyName": "FOP EXPERTS CONSEILS INC",
+        "experience": "3 years to less than 5 years",
+        "Title": "solutions architect - information technology (IT)",
+        "KeyWords": [
+            "C#",
+            "software",
+            "script",
+            "SQL",
+            "develop"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/37164092?source=searchresults"
+    },
+    {
+        "minSalary": "60,000",
+        "maxSalary": "90,000",
+        "workHours": " 40 hours per week",
+        "companyName": "Evertz Microsystems Ltd.",
+        "experience": "Experience an asset",
+        "Title": "application programmer",
+        "KeyWords": [
+            "code",
+            "Git",
+            "Java",
+            "C++",
+            "C#",
+            "HTML",
+            "Angular",
+            "software",
+            "test"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/37159524?source=searchresults"
+    },
+    {
+        "minSalary": "60,000",
+        "maxSalary": "90,000",
+        "workHours": " 40 hours per week",
+        "companyName": "FOP EXPERTS CONSEILS INC",
+        "experience": "3 years to less than 5 years",
+        "Title": "network architect - computer systems",
+        "KeyWords": [
+            "Java",
+            "software",
+            "develop",
+            "data"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/37158229?source=searchresults"
+    },
+    {
+        "minSalary": "68,000",
+        "maxSalary": "90,000",
+        "workHours": " 40 hours per week",
+        "companyName": "FOP EXPERTS CONSEILS INC",
+        "experience": "3 years to less than 5 years",
+        "Title": "computer projects manager",
+        "KeyWords": [
+            "database",
+            "software",
+            "develop",
+            "programming",
+            "data"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/37158232?source=searchresults"
+    },
+    {
+        "minSalary": "50.00",
+        "maxSalary": null,
+        "workHours": " 40 to 44 hours per week",
+        "companyName": "DEW SOFTWARE Canada Inc.",
+        "experience": "3 years to less than 5 years",
+        "Title": "systems engineer - software",
+        "KeyWords": [
+            "software",
+            "test",
+            "script",
+            "develop",
+            "data"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/37138235?source=searchresults"
+    },
+    {
+        "minSalary": "96,000",
+        "maxSalary": "129,400",
+        "workHours": " 40 hours per week",
+        "companyName": "Groq Canada",
+        "experience": "1 year to less than 2 years",
+        "Title": "engineer, software",
+        "KeyWords": [
+            "C++",
+            "software",
+            "test",
+            "develop",
+            "data"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/37137495?source=searchresults"
+    },
+    {
+        "minSalary": "95,000",
+        "maxSalary": null,
+        "workHours": " 40 hours per week",
+        "companyName": "Sryas Inc.",
+        "experience": "3 years to less than 5 years",
+        "Title": "software developer",
+        "KeyWords": [
+            "code",
+            "Java",
+            "CSS",
+            "HTML",
+            "software",
+            "test",
+            "SQL",
+            "develop",
+            "Object-Oriented",
+            "programming"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/37123979?source=searchresults"
+    },
+    {
+        "minSalary": "33.00",
+        "maxSalary": null,
+        "workHours": " 40 hours per week",
+        "companyName": "Vielearn Edutainment Inc.",
+        "experience": "Experience an asset",
+        "Title": "Web developer",
+        "KeyWords": [
+            "database",
+            "code",
+            "software",
+            "test",
+            "develop",
+            "data",
+            "mock-up"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/37118368?source=searchresults"
+    },
+    {
+        "minSalary": "60,000",
+        "maxSalary": "80,000",
+        "workHours": " 40 hours per week",
+        "companyName": "MWDPlanet and Lumen Corp",
+        "experience": "2 years to less than 3 years",
+        "Title": "embedded software engineer",
+        "KeyWords": [
+            "Java",
+            "C++",
+            "C#",
+            "software",
+            "SQL",
+            "lead",
+            "develop",
+            "data"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/37117875?source=searchresults"
+    },
+    {
+        "minSalary": "140,000",
+        "maxSalary": "175,000",
+        "workHours": " 40 hours per week",
+        "companyName": "Beta Aero Canada ULC",
+        "experience": "2 years to less than 3 years",
+        "Title": "aerodynamics engineer",
+        "KeyWords": [
+            "lead",
+            "engineer",
+            "develop"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/37114464?source=searchresults"
+    },
+    {
+        "minSalary": "78,000",
+        "maxSalary": null,
+        "workHours": " 40 hours per week",
+        "companyName": "DISAPPEARS.COM HOLDINGS (CANADA) LTD.",
+        "experience": "3 years to less than 5 years",
+        "Title": "Web developer",
+        "KeyWords": [
+            "database",
+            "code",
+            "Java",
+            "CSS",
+            "HTML",
+            "software",
+            "test",
+            "data",
+            "mock-up"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/37062010?source=searchresults"
+    },
+    {
+        "minSalary": "76,400",
+        "maxSalary": "120,000",
+        "workHours": " 37.5 hours per week",
+        "companyName": "NovAtel Inc.",
+        "experience": "3 years to less than 5 years",
+        "Title": "engineer, computer (except software)",
+        "KeyWords": [
+            "C++",
+            "software",
+            "test",
+            "develop",
+            "data"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/37050007?source=searchresults"
+    },
+    {
+        "minSalary": "65,000",
+        "maxSalary": "85,000",
+        "workHours": " 40 hours per week",
+        "companyName": "Axiell ALM Canada Inc",
+        "experience": "1 year to less than 2 years",
+        "Title": "Web developer",
+        "KeyWords": [
+            "database",
+            "code",
+            "Java",
+            "C#",
+            "CSS",
+            "HTML",
+            "software",
+            "test",
+            "develop",
+            "data",
+            "mock-up"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/37007826?source=searchresults"
+    },
+    {
+        "minSalary": "41.00",
+        "maxSalary": null,
+        "workHours": " 40 hours per week",
+        "companyName": "MAXVISION SOLUTIONS INC.",
+        "experience": "2 years to less than 3 years",
+        "Title": "software developer",
+        "KeyWords": [
+            "code",
+            "Java",
+            "C++",
+            "CSS",
+            "HTML",
+            "software",
+            "test",
+            "SQL",
+            "develop",
+            "Object-Oriented",
+            "programming"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/36991788?source=searchresults"
+    },
+    {
+        "minSalary": "65,000",
+        "maxSalary": "70,000",
+        "workHours": " 40 hours per week",
+        "companyName": "ASTEK Canada Inc.",
+        "experience": "1 year to less than 2 years",
+        "Title": "programmer analyst",
+        "KeyWords": [
+            "code",
+            "software",
+            "test",
+            "develop"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/36991731?source=searchresults"
+    },
+    {
+        "minSalary": "35.00",
+        "maxSalary": null,
+        "workHours": " 40 hours per week",
+        "companyName": "Zenith System Solutions Inc.",
+        "experience": "3 years to less than 5 years",
+        "Title": "Web developer",
+        "KeyWords": [
+            "database",
+            "code",
+            "Java",
+            "C#",
+            "CSS",
+            "HTML",
+            "software",
+            "test",
+            "develop",
+            "data"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/36989309?source=searchresults"
+    },
+    {
+        "minSalary": "70,000",
+        "maxSalary": "90,000",
+        "workHours": " 44 hours per week",
+        "companyName": "2596959 Ontario Inc.",
+        "experience": "3 years to less than 5 years",
+        "Title": "software QA (quality assurance) analyst",
+        "KeyWords": [
+            "Java",
+            "HTML",
+            "software",
+            "develop",
+            "data",
+            "life cycle"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/36989307?source=searchresults"
+    },
+    {
+        "minSalary": "45.00",
+        "maxSalary": null,
+        "workHours": " 37.5 hours per week",
+        "companyName": "Fintelics Technology Inc",
+        "experience": "2 years to less than 3 years",
+        "Title": "computer programmer",
+        "KeyWords": [
+            "code",
+            "software",
+            "test",
+            "develop"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/36981128?source=searchresults"
+    },
+    {
+        "minSalary": "33.00",
+        "maxSalary": null,
+        "workHours": " 30 to 40 hours per week",
+        "companyName": "UNI-ONE FOOD GROUP INC.",
+        "experience": "1 year to less than 2 years",
+        "Title": "Web site developer",
+        "KeyWords": [
+            "database",
+            "code",
+            "software",
+            "test",
+            "develop",
+            "data",
+            "mock-up"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/36957474?source=searchresults"
+    },
+    {
+        "minSalary": "40.00",
+        "maxSalary": null,
+        "workHours": " 130 hours per month",
+        "companyName": "Q2Hire Consulting Inc",
+        "experience": "1 year to less than 2 years",
+        "Title": "programmer analyst",
+        "KeyWords": [
+            "code",
+            "Java",
+            "C#",
+            "CSS",
+            "HTML",
+            "software",
+            "test",
+            "SQL",
+            "develop"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/36955228?source=searchresults"
+    },
+    {
+        "minSalary": "44.00",
+        "maxSalary": "46.00",
+        "workHours": " 35 hours per week",
+        "companyName": "Rajput Network Solutions Inc.",
+        "experience": "2 years to less than 3 years",
+        "Title": "IT (information technology) consultant",
+        "KeyWords": [
+            "software",
+            "develop",
+            "data",
+            "life cycle"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/36939262?source=searchresults"
+    },
+    {
+        "minSalary": "22.00",
+        "maxSalary": "30.00",
+        "workHours": " 40 hours per week",
+        "companyName": "Rotobec inc.",
+        "experience": "2 years to less than 3 years",
+        "Title": "developer, software",
+        "KeyWords": [
+            "code",
+            "C++",
+            "C#",
+            "software",
+            "test"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/36904376?source=searchresults"
+    },
+    {
+        "minSalary": "39.83",
+        "maxSalary": null,
+        "workHours": " 30 to 40 hours per week",
+        "companyName": "Super GeoAI Technology Inc.",
+        "experience": "1 year to less than 2 years",
+        "Title": "computer programmer",
+        "KeyWords": [
+            "code",
+            "software",
+            "test",
+            "develop"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/36880234?source=searchresults"
+    },
+    {
+        "minSalary": "38.00",
+        "maxSalary": null,
+        "workHours": " 30 to 40 hours per week",
+        "companyName": "Quantasphere Business Solutions Inc.",
+        "experience": "1 year to less than 2 years",
+        "Title": "data analyst - informatics and systems",
+        "KeyWords": [
+            "database",
+            "test",
+            "script",
+            "develop",
+            "data"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/36856421?source=searchresults"
+    },
+    {
+        "minSalary": "85,100",
+        "maxSalary": null,
+        "workHours": " 40 hours per week",
+        "companyName": "Biscuits Leclerc Lt\u00e9e",
+        "experience": "3 years to less than 5 years",
+        "Title": "systems engineer - manufacturing",
+        "KeyWords": [
+            "software",
+            "engineer",
+            "develop"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/36846054?source=searchresults"
+    },
+    {
+        "minSalary": "30.00",
+        "maxSalary": "45.00",
+        "workHours": " 35 to 40 hours per week",
+        "companyName": "Enerco Groupe-conseil inc.",
+        "experience": "Experience an asset",
+        "Title": "electrical engineering technologist",
+        "KeyWords": [
+            "test",
+            "engineer",
+            "develop"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/36819496?source=searchresults"
+    },
+    {
+        "minSalary": "32.50",
+        "maxSalary": null,
+        "workHours": " 38 hours per week",
+        "companyName": "Langley Flying School, Inc.",
+        "experience": "2 years to less than 3 years",
+        "Title": "Web developer",
+        "KeyWords": [
+            "database",
+            "code",
+            "Java",
+            "C++",
+            "HTML",
+            "software",
+            "test",
+            "SQL",
+            "develop",
+            "data",
+            "mock-up"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/36815830?source=searchresults"
+    },
+    {
+        "minSalary": "40,000",
+        "maxSalary": "50,000",
+        "workHours": " 37.5 hours per week",
+        "companyName": "Success Activators Group Inc",
+        "experience": "3 years to less than 5 years",
+        "Title": "senior software developer",
+        "KeyWords": [
+            "code",
+            "Java",
+            "C#",
+            "CSS",
+            "HTML",
+            "software",
+            "test",
+            "SQL",
+            "develop"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/36803578?source=searchresults"
+    },
+    {
+        "minSalary": "25.00",
+        "maxSalary": null,
+        "workHours": " 35 hours per week",
+        "companyName": "10016094 Manitoba Inc.",
+        "experience": "1 year to less than 2 years",
+        "Title": "Web developer",
+        "KeyWords": [
+            "database",
+            "code",
+            "Java",
+            "C#",
+            "HTML",
+            "software",
+            "test",
+            "develop",
+            "data",
+            "mock-up"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/36796684?source=searchresults"
+    },
+    {
+        "minSalary": "33.00",
+        "maxSalary": null,
+        "workHours": " 30 hours per week",
+        "companyName": "2793415 ONTARIO LTD",
+        "experience": "2 years to less than 3 years",
+        "Title": "Web developer",
+        "KeyWords": [
+            "database",
+            "code",
+            "Java",
+            "CSS",
+            "HTML",
+            "software",
+            "test",
+            "develop",
+            "data",
+            "mock-up"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/36780350?source=searchresults"
+    },
+    {
+        "minSalary": "48.00",
+        "maxSalary": null,
+        "workHours": " 40 hours per week",
+        "companyName": "ShoreWise Consulting LLC",
+        "experience": "3 years to less than 5 years",
+        "Title": "software engineer",
+        "KeyWords": [
+            "Git",
+            "Java",
+            "C++",
+            "C#",
+            "CSS",
+            "software",
+            "test",
+            "SQL",
+            "JS",
+            "develop",
+            "data"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/36757108?source=searchresults"
+    },
+    {
+        "minSalary": "35.00",
+        "maxSalary": "45.00",
+        "workHours": " 35 hours per week",
+        "companyName": "Groupe Concorde Internationale Inc",
+        "experience": "3 years to less than 5 years",
+        "Title": "design engineer, electrical",
+        "KeyWords": [
+            "engineer",
+            "develop",
+            "data"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/36756761?source=searchresults"
+    },
+    {
+        "minSalary": "36.50",
+        "maxSalary": null,
+        "workHours": " 40 hours per week",
+        "companyName": "Butler at your service Inc.",
+        "experience": "2 years to less than 3 years",
+        "Title": "IT (information technology) consultant",
+        "KeyWords": [
+            "software",
+            "develop",
+            "data",
+            "life cycle"
+        ],
+        "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/36734329?source=searchresults"
+    }
+]
